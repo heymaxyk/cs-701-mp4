@@ -1,0 +1,147 @@
+{
+
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Washing pods",
+      "quantity": 1,
+      "price": 6.99,
+	  "quality": "New",
+	  "seller": "Walmart",
+	  "delivery": "Instant Delivery"
+	  "refundable": "Not Refundable"
+    },
+    { 
+	  "id": 2, 
+	  "listId": 1, 
+	  "title": "Rice", 
+	  "quantity": 1, 
+	  "price": 0.99,
+	  "quality": "New",
+	  "seller": "Walmart",
+	  "delivery": "Instant Delivery"
+	  "refundable": "Not Refundable"
+	},
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "Birthday Cake",
+      "quantity": 1,
+      "price": 8.99,
+	  "quality": "New",
+	  "seller": "Stop & Shop",
+	  "delivery": "Instant Delivery"
+	  "refundable": "Not Refundable"
+    },
+	{
+      "id": 4,
+      "listId": 2,
+      "title": "Party Hats",
+      "quantity": 10,
+      "price": 5.49,
+	  "quality": "New",
+	  "seller": "Walmart",
+	  "delivery": "Instant Delivery"
+	  "refundable": "Not Refundable"
+    },
+	{
+      "id": 5,
+      "listId": 2,
+      "title": "Balloons",
+      "quantity": 5,
+      "price": 4.99,
+	  "quality": "New",
+	  "seller": "Dollar Tree",
+	  "delivery": "In-Person Pickup"
+	  "refundable": "Not Refundable"
+    },
+	{
+      "id": 6,
+      "listId": 3,
+      "title": "Xbox",
+      "quantity": 1,
+      "price": 249.99,
+	  "quality": "Used",
+	  "seller": "Gamestop",
+	  "delivery": "Standard Delivery"
+	  "refundable": "Refundable"
+    },
+	{
+      "id": 7,
+      "listId": 3,
+      "title": "Gaming Headset",
+      "quantity": 1,
+      "price": 59.99,
+	  "quality": "New",
+	  "seller": "Gamestop",
+	  "delivery": "Standard Delivery"
+	  "refundable": "Refundable"
+    },
+	{
+      "id": 8,
+      "listId": 3,
+      "title": "Gaming Chair",
+      "quantity": 1,
+      "price": 154.99,
+	  "quality": "New",
+	  "seller": "IKEA",
+	  "delivery": "Standard Delivery"
+	  "refundable": "Refundable"
+    },
+	{
+      "id": 9,
+      "listId": 4,
+      "title": "Rear Bumper",
+      "quantity": 1,
+      "price": 99.99,
+	  "quality": "New",
+	  "seller": "Autozone",
+	  "delivery": "Standard Delivery"
+	  "refundable": "Refundable"
+    },
+	{
+      "id": 10,
+      "listId": 4,
+      "title": "Headlight Bulbs",
+      "quantity": 2,
+      "price": 10.99,
+	  "quality": "New",
+	  "seller": "Autozone",
+	  "delivery": "Standard Delivery"
+	  "refundable": "Refundable"
+    },
+	{
+      "id": 11,
+      "listId": 4=5,
+      "title": "Barstools",
+      "quantity": 4,
+      "price": 29.99,
+	  "quality": "Used",
+	  "seller": "Facebook Marketplace",
+	  "delivery": "In-Person Pickup"
+	  "refundable": "Not Refundable"
+    },
+	{
+      "id": 12,
+      "listId": 5,
+      "title": "Pinball Machine",
+      "quantity": 1,
+      "price": 399.99,
+	  "quality": "New",
+	  "seller": "Amazon",
+	  "delivery": "Standard Delivery"
+	  "refundable": "Refundable"
+    },
+  ],
+  
+  "lists": [
+    { "id": 1, "title": "Daily groceries" },
+    { "id": 2, "title": "Birthday youngest child" },
+	{ "id": 3, "title": "New Gaming Room" },
+	{ "id": 4, "title": "Car Repairs" },
+	{ "id": 5, "title": "Basement Renovation" },
+  ],
+  
+}
+
