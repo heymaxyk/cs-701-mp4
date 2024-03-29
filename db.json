@@ -9,7 +9,7 @@
       "price": 6.99,
 	  "quality": "New",
 	  "seller": "Walmart",
-	  "delivery": "Instant Delivery"
+	  "delivery": "Instant Delivery",
 	  "refundable": "Not Refundable"
     },
     { 
@@ -20,7 +20,7 @@
 	  "price": 0.99,
 	  "quality": "New",
 	  "seller": "Walmart",
-	  "delivery": "Instant Delivery"
+	  "delivery": "Instant Delivery",
 	  "refundable": "Not Refundable"
 	},
     {
@@ -31,7 +31,7 @@
       "price": 8.99,
 	  "quality": "New",
 	  "seller": "Stop & Shop",
-	  "delivery": "Instant Delivery"
+	  "delivery": "Instant Delivery",
 	  "refundable": "Not Refundable"
     },
 	{
@@ -42,7 +42,7 @@
       "price": 5.49,
 	  "quality": "New",
 	  "seller": "Walmart",
-	  "delivery": "Instant Delivery"
+	  "delivery": "Instant Delivery",
 	  "refundable": "Not Refundable"
     },
 	{
@@ -53,7 +53,7 @@
       "price": 4.99,
 	  "quality": "New",
 	  "seller": "Dollar Tree",
-	  "delivery": "In-Person Pickup"
+	  "delivery": "In-Person Pickup",
 	  "refundable": "Not Refundable"
     },
 	{
@@ -64,7 +64,7 @@
       "price": 249.99,
 	  "quality": "Used",
 	  "seller": "Gamestop",
-	  "delivery": "Standard Delivery"
+	  "delivery": "Standard Delivery",
 	  "refundable": "Refundable"
     },
 	{
@@ -75,7 +75,7 @@
       "price": 59.99,
 	  "quality": "New",
 	  "seller": "Gamestop",
-	  "delivery": "Standard Delivery"
+	  "delivery": "Standard Delivery",
 	  "refundable": "Refundable"
     },
 	{
@@ -86,7 +86,7 @@
       "price": 154.99,
 	  "quality": "New",
 	  "seller": "IKEA",
-	  "delivery": "Standard Delivery"
+	  "delivery": "Standard Delivery",
 	  "refundable": "Refundable"
     },
 	{
@@ -97,7 +97,7 @@
       "price": 99.99,
 	  "quality": "New",
 	  "seller": "Autozone",
-	  "delivery": "Standard Delivery"
+	  "delivery": "Standard Delivery",
 	  "refundable": "Refundable"
     },
 	{
@@ -108,7 +108,7 @@
       "price": 10.99,
 	  "quality": "New",
 	  "seller": "Autozone",
-	  "delivery": "Standard Delivery"
+	  "delivery": "Standard Delivery",
 	  "refundable": "Refundable"
     },
 	{
@@ -119,7 +119,7 @@
       "price": 29.99,
 	  "quality": "Used",
 	  "seller": "Facebook Marketplace",
-	  "delivery": "In-Person Pickup"
+	  "delivery": "In-Person Pickup",
 	  "refundable": "Not Refundable"
     },
 	{
@@ -130,7 +130,7 @@
       "price": 399.99,
 	  "quality": "New",
 	  "seller": "Amazon",
-	  "delivery": "Standard Delivery"
+	  "delivery": "Standard Delivery",
 	  "refundable": "Refundable"
     },
   ],
