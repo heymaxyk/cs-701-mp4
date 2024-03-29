@@ -132,7 +132,7 @@
 	  "seller": "Amazon",
 	  "delivery": "Standard Delivery",
 	  "refundable": "Refundable"
-    },
+    }
   ],
   
   "lists": [
@@ -141,7 +141,7 @@
 	{ "id": 3, "title": "New Gaming Room" },
 	{ "id": 4, "title": "Car Repairs" },
 	{ "id": 5, "title": "Basement Renovation" },
-  ],
+  ]
   
 }
 
